@@ -786,3 +786,15 @@ Smart Q 3788 - Yoga la eppadi jeyikkarathu?
 Reading 3789 - Mahabharata!
 Game 3790 - Dice - Ne Dice nu Sollu!
 Quote 3791 - Daily try pannu - Jeyichiduva! - Aira
+Knowledge 3792 - Chemistry - Hey buddy! நீ chemistry‑ஐப் பற்றி அறிய விரும்புகிறாயா? Let’s dive in – **Chemistry** (கெமிஸ்ட்ரி) என்பது matter‑ஐ (பொருள்) உருவாக்கும் atoms, molecules, ions ஆகியவின் structure, properties, reactions, and energy changes‑னைக் குறித்து ஆய்வு செய்யும் science.  
+
+---
+
+## 1️⃣ Chemistry‑இன் பெரிய பாகங்கள் (Major Branches)
+
+| பாகம் | What it studies | Example (உதாரணம்) |
+|------|----------------|-------------------|
+| **Physical Chemistry** | Matter‑இன் physical properties (thermodynamics, quantum mechanics) | How temperature affects reaction rate (Arrhenius equation) |
+| **Organic Chemistry** | Carbon‑based compounds (C‑H, C‑C bonds) | Drug design, plastics, sugars |
+| **Inorganic Chemistry** | Non‑carbon elements & their compounds | Metals, minerals, catalysts |
+| **Analytical Chemistry** | De
