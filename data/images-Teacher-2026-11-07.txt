@@ -38,3 +38,4 @@ Teacher - Openverse - https://www.flickr.com/photos/56155476@N08/6660014223
 Teacher - Openverse - https://www.flickr.com/photos/88488351@N00/9302542405
 Teacher - Openverse - https://www.flickr.com/photos/74207111@N00/41015511764
 Teacher - Unsplash - https://source.unsplash.com/800x600/?teacher%20happy
+Teacher - Wikimedia - https://commons.wikimedia.org/wiki/File:A_college_professor_teaching_in_a_university_classroom_full_of_students_in_Tennessee,_United_States_08.jpg
