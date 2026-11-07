@@ -87,3 +87,4 @@ Coding Q 3373 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Aira AI: Tamil Nadu pathi oru story kekkura? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Vocab 3375 - Success = Vetri
+Q 3376 - Ne Thirukkural la eppadi improve panna mudiyum?
