@@ -47,3 +47,6 @@ Knowledge 3356 - Eiffel Tower - Hey buddy! Eiffel Tower‑இன் story-ஐ 
 Knowledge Quiz
 Q: Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?
 A: Mike Tyson - Sports
+Knowledge Quiz
+Q: Which year was the third Super Bowl held?
+A: 1969 - Sports
