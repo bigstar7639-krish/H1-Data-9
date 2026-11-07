@@ -117,3 +117,4 @@ Sea - bwb_S0-CCA-529 - The alcarve the land,the sea and its people
 Mountain - bwb_S0-ATK-546 - Mountain Wild Flowers of Colorado and Adjacent Areas
 Mountain - skullmountainban0000terr - Skull Mountain Bandit
 River - PsRiverSpotlightBrushesFree - Ps River Spotlight Brushes Free
+River - bwb_C0-AMM-515 - A Critical History Of The Red River Insurrection After Official Documents And Non-Catholic Sources
