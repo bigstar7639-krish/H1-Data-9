@@ -75,3 +75,4 @@ Coding Q 3365 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Aira AI: Un life la Smile eppadi irukku? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Reading 3367 - Python Crash Course!
+Recipe 3368 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
