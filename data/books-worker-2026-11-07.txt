@@ -162,3 +162,4 @@ Movie - The wimpy kid movie diary
 Movie - How to Write a Movie in 21 Days
 Temple - The Magic of the Lost Temple
 Temple - Temple of Fire
+Temple - Temple of the Winds
