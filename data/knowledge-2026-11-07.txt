@@ -516,3 +516,6 @@ A: 13 - Science: Mathematics
 Knowledge Quiz
 Q: Which of the following is not a Flintstones character?
 A: Lord Rockingham IX - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: Which of these characters live in a pineapple under the sea in the cartoon "SpongeBob SquarePants".
+A: SpongeBob SquarePants  - Entertainment: Cartoon & Animations
