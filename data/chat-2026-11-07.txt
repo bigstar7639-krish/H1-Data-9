@@ -558,3 +558,5 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Kavithai 3656 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Emotion Q 3657 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
+World Story 3658
+Oru chinna forest la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
