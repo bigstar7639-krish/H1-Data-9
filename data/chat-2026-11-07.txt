@@ -602,3 +602,4 @@ World Story 3680
 Oru delhi la oru singer irunthan! Daily try pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
 World Story 3681
 Oru tokyo la oru farmer irunthan! Daily dream pannan pannan! Oru naal love kedaichuchu! Life maariduchu!
+Talk 3682 - Tokyo pathi pesalama? Sollu!
