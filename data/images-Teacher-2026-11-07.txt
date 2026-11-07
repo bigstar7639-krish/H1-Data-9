@@ -51,3 +51,4 @@ Teacher - Unsplash - https://source.unsplash.com/800x600/?teacher%20happy
 Teacher - Wikimedia - https://commons.wikimedia.org/wiki/File:A_college_professor_teaching_in_a_university_classroom_full_of_students_in_Tennessee,_United_States_06.jpg
 Teacher - Wikimedia - https://commons.wikimedia.org/wiki/File:Teachers_and_students_at_Baozhong_Junior_High_School_20121123_02.jpg
 Teacher - Wikimedia - https://commons.wikimedia.org/wiki/File:A_complete_and_practical_solution_book_for_the_common_school_teacher_(1899)_(14782998442).jpg
+Teacher - Wikimedia - https://commons.wikimedia.org/wiki/File:A_public_high_school_teacher_in_a_classroom_in_the_United_States_05.jpg
