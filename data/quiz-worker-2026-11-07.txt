@@ -127,3 +127,6 @@ A: H20
 Auto Quiz - Nature 🧠
 Q: What type of genre is the controversial 2015 game &quot;Hatred&quot;?
 A: Shoot &#039;Em Up
+Auto Quiz - Cat 🧠
+Q: What is the canonical name of the Persona 4 protagonist?
+A: Yu Narukami
