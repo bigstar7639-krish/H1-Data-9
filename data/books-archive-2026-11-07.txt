@@ -206,3 +206,4 @@ Beach - SunnyBeachVox - Sunny Beach Vox
 Beach - utahbeachtocherb0000unse - UTAH BEACH TO CHERBOURG 6 - 7 JUNE 1944
 Forest - bwb_T5-CWR-097 - a fool in the forest
 Forest - bwb_C0-AQJ-625 - The enchanted forest
+Desert - principalregular0000nsch - principal regularities of the desert locust plagues and swarm migrations
