@@ -234,3 +234,4 @@ Vegetable - vegetableproduct0000john - Vegetable Production With Special Referen
 Vegetable - bostonfreshfruit1978fede - Boston, fresh fruit and vegetable wholesale market prices
 Summer - bwb_KV-620-365 - Summer Storm
 Summer - PulsarTop10Summer2014 - Pulsar Top 10 Summer 2014
+Winter - winter_background - winter_background
