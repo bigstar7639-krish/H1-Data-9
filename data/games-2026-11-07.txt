@@ -15,3 +15,4 @@ Game 3691 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 3766 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 3783 - Coin Toss - Ne Toss nu Sollu!
 Game 3790 - Dice - Ne Dice nu Sollu!
+Game 3807 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
