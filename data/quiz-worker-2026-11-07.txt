@@ -322,3 +322,6 @@ A: 6 - Science: Mathematics
 Auto Quiz - Vegetable 🧠
 Q: Along with Gabe Newell, who co-founded Valve?
 A: Mike Harrington - Entertainment: Video Games
+Auto Quiz - Winter 🧠
+Q: Who has played the most tournaments on the Brazilian national soccer team?
+A: Cafu - Sports
