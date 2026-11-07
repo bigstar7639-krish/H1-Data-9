@@ -61,3 +61,6 @@ A: Shadow
 Auto Quiz - Mumbai 🧠
 Q: What is the atomic mass of Carbon?
 A: 12
+Auto Quiz - London 🧠
+Q: What is Canada&#039;s largest island?
+A: Baffin Island
