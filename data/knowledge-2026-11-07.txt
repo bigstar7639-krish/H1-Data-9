@@ -410,3 +410,6 @@ A: Felidae - Animals
 Knowledge Quiz
 Q: In Splatoon 2's Hero Mode, which agent does the player take the role of?
 A: Agent 4 - Entertainment: Video Games
+Knowledge Quiz
+Q: .rs is the top-level domain for what country?
+A: Serbia - Science: Computers
