@@ -100,3 +100,6 @@ A: Animal Crossing: City Folk
 Auto Quiz - Education 🧠
 Q: In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?
 A: Answer a riddle
+Auto Quiz - Happiness 🧠
+Q: Why is the night sky dark? 
+A: The universe is finite in age and size
