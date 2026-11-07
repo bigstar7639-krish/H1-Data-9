@@ -204,3 +204,6 @@ A: 10 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these is NOT a game under the Worms series?
 A: Major Malfunction - Entertainment: Video Games
+Knowledge Quiz
+Q: The architect known as Le Corbusier was an important figure in what style of architecture?
+A: Modernism - General Knowledge
