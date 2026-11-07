@@ -64,3 +64,6 @@ A: 12
 Auto Quiz - London 🧠
 Q: What is Canada&#039;s largest island?
 A: Baffin Island
+Auto Quiz - Paris 🧠
+Q: &quot;Tomb Raider&quot; icon Lara Croft was originally called...
+A: Laura Cruz
