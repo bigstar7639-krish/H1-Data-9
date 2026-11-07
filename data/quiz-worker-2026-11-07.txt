@@ -166,3 +166,6 @@ A: Einstein
 Auto Quiz - Star 🧠
 Q: In what country were the 2014 Winter Olympics held in the town of Sochi?
 A: Russia
+Auto Quiz - Moon 🧠
+Q: In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?
+A: By clearing every 7th episode
