@@ -238,3 +238,6 @@ A: Coolio - Entertainment: Music
 Knowledge Quiz
 Q: Which of the following films was Don Bluth both the writer, director, and producer for?
 A: All Dogs Go To Heaven - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: Which of the following United States Presidents served the shortest term in office?
+A: William Henry Harrison - Politics
