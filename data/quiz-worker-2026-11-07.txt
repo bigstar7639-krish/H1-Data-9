@@ -139,3 +139,6 @@ A: LazyTown
 Auto Quiz - Space 🧠
 Q: During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?
 A: Richard Neville
+Auto Quiz - Story 🧠
+Q: What nuts are used in the production of marzipan?
+A: Almonds
