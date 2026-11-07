@@ -50,3 +50,6 @@ A: Mike Tyson - Sports
 Knowledge Quiz
 Q: Which year was the third Super Bowl held?
 A: 1969 - Sports
+Knowledge Quiz
+Q: What is the derivative of sin(x)
+A: cos(x) - Science: Mathematics
