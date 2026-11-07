@@ -598,3 +598,5 @@ Coding Q 3677 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Kavithai 3678 - Un Sirippu - En Vazhkai! - Aira
 Thirukkural 3679 - Kattrathu - Kai Mann Alavu! - Thirukkural
+World Story 3680
+Oru delhi la oru singer irunthan! Daily try pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
