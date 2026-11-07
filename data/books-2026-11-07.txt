@@ -37,3 +37,4 @@ kor - chosun-ilbo-1927.03.29m - 朝鮮日報 1927.03.29m
 chi - xinminbao-nanjing-1934.06.15 - 新民報 (南京) 1934.06.15
 chi - xijing-ribao-1939.07.10 - 西京日報 1939.07.10
 eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
+hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordinary
