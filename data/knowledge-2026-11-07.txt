@@ -109,3 +109,6 @@ A: Fountain of Dreams - Entertainment: Video Games
 Knowledge Quiz
 Q: According to a Beatles song, who kept her face in a jar by the door?
 A: Eleanor Rigby - Entertainment: Music
+Knowledge Quiz
+Q: Valve Corporation is an American video game developer located in which city?
+A: Bellevue, Washington - Entertainment: Video Games
