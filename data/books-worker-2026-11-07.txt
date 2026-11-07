@@ -328,3 +328,4 @@ Pizza - The Pizza Mystery
 Pizza - Pete's a Pizza
 Burger - Burger's daughter
 Burger - Burger boy
+Burger - The 5 elements of effective thinking
