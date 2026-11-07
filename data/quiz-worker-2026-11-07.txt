@@ -136,3 +136,6 @@ A: Brain
 Auto Quiz - Cricket 🧠
 Q: Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?
 A: LazyTown
+Auto Quiz - Space 🧠
+Q: During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?
+A: Richard Neville
