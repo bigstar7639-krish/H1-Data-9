@@ -674,3 +674,6 @@ Knowledge 3792 - Chemistry - Hey buddy! நீ chemistry‑ஐப் பற்
 Knowledge Quiz
 Q: What was the first feature-length computer-animated movie?
 A: Toy Story - Entertainment: Film
+Knowledge Quiz
+Q: The Japanese district Akihabara is also known by what nickname?
+A: Electric Town - Geography
