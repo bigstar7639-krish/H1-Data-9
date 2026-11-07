@@ -292,3 +292,6 @@ A: Green - Science: Computers
 Auto Quiz - Snow 🧠
 Q: This field is sometimes known as “The Dismal Science.”
 A: Economics - General Knowledge
+Auto Quiz - Earth 🧠
+Q: According to the Book of Genesis in the Old Testament, how many days did it take God to create the world?
+A: Six - General Knowledge
