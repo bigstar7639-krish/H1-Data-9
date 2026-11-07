@@ -504,3 +504,6 @@ A: 2007 - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the stage name of New Zealand singer Phillipa "Pip" Brown?
 A: Ladyhawke - Entertainment: Music
+Knowledge Quiz
+Q: Which artist's style was to use small different colored dots to create a picture?
+A: Georges Seurat - Art
