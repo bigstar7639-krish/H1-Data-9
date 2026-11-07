@@ -10,3 +10,6 @@ A: 1957
 Auto Quiz - Motivation 🧠
 Q: How many counties in the Republic of Ireland.
 A: 26
+Auto Quiz - Peace 🧠
+Q: What is widely considered to be the oldest civilization known to mankind?
+A: Sumeria
