@@ -745,3 +745,6 @@ A: 23 - Science: Mathematics
 Knowledge Quiz
 Q: What is a Tetris piece called?
 A: Tetromino - Entertainment: Video Games
+Knowledge Quiz
+Q: In 1720, England was in massive debt and became involved in the South Sea Bubble. Who was the main mastermind behind it?
+A: John Blunt - History
