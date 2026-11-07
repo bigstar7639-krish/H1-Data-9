@@ -153,3 +153,6 @@ A: Elder Tale - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?
 A: Goldsboro, North Carolina - History
+Knowledge Quiz
+Q: What was the wifi password given to Stephen Strange in Doctor Strange?
+A: Shambala - Entertainment: Film
