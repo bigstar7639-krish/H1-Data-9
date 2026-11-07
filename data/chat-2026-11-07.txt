@@ -597,3 +597,4 @@ Knowledge 3676 - Music - Music pathi sollu - Nalla question! Daily try pannu - J
 Coding Q 3677 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Kavithai 3678 - Un Sirippu - En Vazhkai! - Aira
+Thirukkural 3679 - Kattrathu - Kai Mann Alavu! - Thirukkural
