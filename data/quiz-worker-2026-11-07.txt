@@ -220,3 +220,6 @@ A: Viktor Tsoi
 Auto Quiz - Football 🧠
 Q: At which race was the 2018 F1 Drivers Championship won?
 A: Mexico
+Auto Quiz - Science 🧠
+Q: In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?
+A: Radar
