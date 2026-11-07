@@ -25,3 +25,6 @@ A: Atalanta
 Auto Quiz - Wisdom 🧠
 Q: Which Russian author wrote the epic novel War and Peace?
 A: Leo Tolstoy
+Auto Quiz - Power 🧠
+Q: Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?
+A: Rik Mayall
