@@ -736,3 +736,6 @@ A: Microsoft - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these roles in Town of Salem is mafia?
 A: Disguiser - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the world's oldest known piece of fiction?
+A: Epic of Gilgamesh - Art
