@@ -319,3 +319,6 @@ A: Para-Zone - Entertainment: Comics
 Auto Quiz - Fruit 🧠
 Q: How many square faces does a cube have?
 A: 6 - Science: Mathematics
+Auto Quiz - Vegetable 🧠
+Q: Along with Gabe Newell, who co-founded Valve?
+A: Mike Harrington - Entertainment: Video Games
