@@ -89,3 +89,4 @@ Philosophy - The Problems of Philosophy
 Philosophy - The Story of Philosophy
 Philosophy - A History of Western Philosophy
 Economics - Economics
+Economics - Principles of Economics
