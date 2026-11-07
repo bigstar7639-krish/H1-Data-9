@@ -157,3 +157,6 @@ A: Sonic &amp; Knuckles
 Auto Quiz - Mountain 🧠
 Q: The collapse of the Soviet Union took place in which year?
 A: 1991
+Auto Quiz - River 🧠
+Q: Which city hosted the CS:GO Dreamhack Open 2015?
+A: Cluj-Napoca
