@@ -192,3 +192,6 @@ A: Trico - Entertainment: Video Games
 Knowledge Quiz
 Q: On a London Underground map, what colour is the Circle Line?
 A: Yellow - Geography
+Knowledge Quiz
+Q: What year did the New Orleans Saints win the Super Bowl?
+A: 2010 - Sports
