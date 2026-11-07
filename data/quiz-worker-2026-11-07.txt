@@ -235,3 +235,6 @@ A: Nokia - Science: Gadgets
 Auto Quiz - Shanghai 🧠
 Q: Which album was released by Kanye West in 2013?
 A: Yeezus - Entertainment: Music
+Auto Quiz - Chinese Culture 🧠
+Q: Which variant of the MP5 is depicted in Counter-Strike 1.6?
+A: MP5N - Entertainment: Video Games
