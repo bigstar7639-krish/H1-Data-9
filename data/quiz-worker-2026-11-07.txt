@@ -103,3 +103,6 @@ A: Answer a riddle
 Auto Quiz - Happiness 🧠
 Q: Why is the night sky dark? 
 A: The universe is finite in age and size
+Auto Quiz - Smile 🧠
+Q: What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+A: Shamir
