@@ -591,3 +591,6 @@ Knowledge 3743 - Psychology - Psychology pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: Who won the "Champions League" in 1999?
 A: Manchester United - Sports
+Knowledge Quiz
+Q: What micro-state is considered to have the oldest constitution still in effect?
+A: San Marino - History
