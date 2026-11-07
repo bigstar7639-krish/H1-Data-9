@@ -55,3 +55,6 @@ A: Franklin Pierce
 Auto Quiz - Madurai 🧠
 Q: What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?
 A: &quot;So long, and thanks for all the fish.&quot;
+Auto Quiz - Delhi 🧠
+Q: In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?
+A: Shadow
