@@ -739,3 +739,6 @@ A: Disguiser - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the world's oldest known piece of fiction?
 A: Epic of Gilgamesh - Art
+Knowledge Quiz
+Q: What prime number comes next after 19?
+A: 23 - Science: Mathematics
