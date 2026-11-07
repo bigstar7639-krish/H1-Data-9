@@ -855,3 +855,4 @@ Movie 3826 - Harry Potter - Magic!
 Story 3827
 Oru chinna oor la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Movie 3828 - Leo - Vijay - Action!
+Smart Q 3829 - Freedom la eppadi jeyikkarathu?
