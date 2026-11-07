@@ -22,3 +22,6 @@ A: Dodge M4S
 Auto Quiz - Truth 🧠
 Q: Who did Hippomenes defeat in a footrace?
 A: Atalanta
+Auto Quiz - Wisdom 🧠
+Q: Which Russian author wrote the epic novel War and Peace?
+A: Leo Tolstoy
