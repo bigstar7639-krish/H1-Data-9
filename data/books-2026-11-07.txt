@@ -28,3 +28,4 @@ eng - in.goa.egaz.0910-29.SIII - Gazette of Goa, No. 0910-29, SIII
 hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordinary
 kan - in.gazette.karnataka_eo.2020-11-07.DPAR73GAM20194 - Karnataka ExtraOrdinary Gazette, 2020-11-07, Extra Ordinary, Part IVA
 kan - in.gazette.karnataka_d.2022-01-29.3607 - Karnataka Daily Gazette, 2022-01-29, Daily
+kan - in.gazette.karnataka_eo.2020-08-06.102 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
