@@ -554,3 +554,6 @@ A: Rope - Entertainment: Film
 Knowledge Quiz
 Q: In Norse Mythology, what is the name of the symbol commonly referred to as the "Tree of Life"?
 A: Yggdrasil - Mythology
+Knowledge Quiz
+Q: In Prokofiev's 'Peter and the Wolf', the wolf itself is represented by a trio of which musical instrument?
+A: French horn - Entertainment: Music
