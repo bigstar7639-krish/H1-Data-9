@@ -205,3 +205,6 @@ A: Cube
 Auto Quiz - Diet 🧠
 Q: Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?
 A: Hans Christian Andersen
+Auto Quiz - Sleep 🧠
+Q: What animal is featured in &quot;Bloons TD Battles&quot;?
+A: Monkeys
