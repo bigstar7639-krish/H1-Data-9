@@ -551,3 +551,6 @@ A: THat Part - Entertainment: Music
 Knowledge Quiz
 Q: Which was the first of Alfred Hitchcock's movies to be filmed in colour?
 A: Rope - Entertainment: Film
+Knowledge Quiz
+Q: In Norse Mythology, what is the name of the symbol commonly referred to as the "Tree of Life"?
+A: Yggdrasil - Mythology
