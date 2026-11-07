@@ -301,3 +301,6 @@ A: 4 - Entertainment: Video Games
 Auto Quiz - Coffee 🧠
 Q: What TV show featured older women named Blanche, Rose, Dorothy and Sophia?
 A: The Golden Girls - Entertainment: Television
+Auto Quiz - Tea 🧠
+Q: Which Overwatch character says the line "Heroes never die!"?
+A: Mercy - Entertainment: Video Games
