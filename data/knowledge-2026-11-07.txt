@@ -401,3 +401,6 @@ A: Pac-Man - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the real name of viral internet meme Grumpy Cat?
 A: Tardar Sauce - General Knowledge
+Knowledge Quiz
+Q: What is the main ship used by Commander Shepard in the Mass Effect Franchise called?
+A: Normandy - Entertainment: Video Games
