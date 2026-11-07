@@ -150,3 +150,6 @@ Knowledge 3431 - Python - Python loop: `for i in range(5): print(i)`
 Knowledge Quiz
 Q: The characters of "Log Horizon" are trapped in what game?
 A: Elder Tale - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?
+A: Goldsboro, North Carolina - History
