@@ -178,3 +178,6 @@ A: David Baszucki and Erik Cassel
 Auto Quiz - Animal 🧠
 Q: In &quot;Gravity Falls&quot;, what does Quentin Trembley do when he is driven out from the White House?
 A: Eat a salamander and jump out the window.
+Auto Quiz - Baby 🧠
+Q: What UK Train does NOT go over 125MPH?
+A: Sprinter
