@@ -309,3 +309,6 @@ A: 14 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these countries remained neutral during World War II?
 A: Switzerland - History
+Knowledge Quiz
+Q: How fast is USB 3.1 Gen 2 theoretically?
+A: 10 Gb/s - Science: Computers
