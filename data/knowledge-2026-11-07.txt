@@ -727,3 +727,6 @@ A: Yellow - General Knowledge
 Knowledge Quiz
 Q: What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?
 A: The Prince - Politics
+Knowledge Quiz
+Q: How many French Open's did Björn Borg win?
+A: 6 - Sports
