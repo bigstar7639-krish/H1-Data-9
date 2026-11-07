@@ -199,3 +199,6 @@ A: Expected Value
 Auto Quiz - Meditation 🧠
 Q: What was the main currency in Club Penguin?
 A: Coins
+Auto Quiz - Fitness 🧠
+Q: What is the shape of the toy invented by Hungarian professor Ernő Rubik?
+A: Cube
