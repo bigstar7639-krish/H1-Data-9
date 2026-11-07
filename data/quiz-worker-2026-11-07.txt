@@ -247,3 +247,6 @@ A: 5 - Entertainment: Television
 Auto Quiz - India 🧠
 Q: Who assassinated Archduke Franz Ferdinand?
 A: Gavrilo Princip - History
+Auto Quiz - Tamil Nadu 🧠
+Q: According to Toby Fox, what was the method to creating the initial tune for Megalovania?
+A: Singing into a Microphone - Entertainment: Video Games
