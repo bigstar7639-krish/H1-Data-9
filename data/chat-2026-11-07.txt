@@ -506,3 +506,4 @@ Thirukkural 3625 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Vocab 3626 - Courage = Thairiyam
 Pazhamozhi 3627 - Porumai - Perumai Tharum!
 Recipe 3628 - Snacks - Potato + Masala - Crispy!
+Knowledge 3629 - AI - AI - Data paathu - Pattern!
