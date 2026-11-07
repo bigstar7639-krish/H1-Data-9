@@ -742,3 +742,6 @@ A: Epic of Gilgamesh - Art
 Knowledge Quiz
 Q: What prime number comes next after 19?
 A: 23 - Science: Mathematics
+Knowledge Quiz
+Q: What is a Tetris piece called?
+A: Tetromino - Entertainment: Video Games
