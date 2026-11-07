@@ -198,3 +198,6 @@ A: 2010 - Sports
 Knowledge Quiz
 Q: "Banjo-Kazooie" originally started its development as a totally different game for the SNES under which codename?
 A: Project Dream - Entertainment: Video Games
+Knowledge Quiz
+Q: How many obsidian blocks are required to build a nether portal in Minecraft?
+A: 10 - Entertainment: Video Games
