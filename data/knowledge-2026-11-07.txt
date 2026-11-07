@@ -226,3 +226,6 @@ Knowledge 3489 - Cricket - Hey buddy! 🙌 நீங்க Cricket‑பற்
 | **கூட்டு (Teams)** | 2 teams, ஒவ்வொரு team‑லும் 11 players. |
 | **முதன்மை பங்குகள் (Main roles)** | **Batsmen** (அடி), **Bowlers** (எறி), **All‑rounders** (இரண்டையும்), **Wicket‑keeper** (விக்கெட்). |
 | **ஸ்கோர்கள் (Scoring)** | ஒவ்வொரு **run**‑க்கும் ball‑ஐ field‑இல் இரு wickets‑கிடைநிலை (crease)களைத் தாண்டவைக்க வேண்டும்.
+Knowledge Quiz
+Q: What is generally considered to be William Shakespeare's birth date?
+A: April 23rd, 1564 - Celebrities
