@@ -21,3 +21,4 @@ eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
 hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordinary
 tel - burning-rice-field-telugu - కాలుతున్న ధాన్యపు పొలాలు - తెలుగు
 kan - in.gazette.karnataka_d.2022-04-20.3995 - Karnataka Daily Gazette, 2022-04-20, Daily
+kan - in.gazette.karnataka_eo.2020-11-07.DPAR73GAM20194 - Karnataka ExtraOrdinary Gazette, 2020-11-07, Extra Ordinary, Part IVA
