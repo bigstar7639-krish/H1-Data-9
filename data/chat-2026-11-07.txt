@@ -246,3 +246,5 @@ World Story 3474
 Oru forest la oru hero irunthan! Daily pray pannaan pannan! Oru naal love kedaichuchu! Life maariduchu!
 Talk 3475 - Animals pathi pesalama? Sollu!
 Movie 3476 - Harry Potter - Magic!
+Joke 3477
+Teacher: Yen late? Student: School Ahead board!
