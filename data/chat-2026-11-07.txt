@@ -365,3 +365,4 @@ Game 3543 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Smart Q 3544 - London la eppadi jeyikkarathu?
 Thirukkural 3545 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Game 3546 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Business Idea 3547 - Tuition - Veetla Tuition!
