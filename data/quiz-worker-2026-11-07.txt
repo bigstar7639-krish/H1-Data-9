@@ -196,3 +196,6 @@ A: Metal Gear Solid V
 Auto Quiz - Yoga 🧠
 Q: In poker, &quot;EV&quot; means what?
 A: Expected Value
+Auto Quiz - Meditation 🧠
+Q: What was the main currency in Club Penguin?
+A: Coins
