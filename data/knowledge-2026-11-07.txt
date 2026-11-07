@@ -513,3 +513,6 @@ A: Brain - Science & Nature
 Knowledge Quiz
 Q: How many books are in Euclid's Elements of Geometry?
 A: 13 - Science: Mathematics
+Knowledge Quiz
+Q: Which of the following is not a Flintstones character?
+A: Lord Rockingham IX - Entertainment: Cartoon & Animations
