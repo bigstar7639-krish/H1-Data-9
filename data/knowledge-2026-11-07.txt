@@ -568,3 +568,6 @@ A: 1.5 Million - Entertainment: Video Games
 Knowledge Quiz
 Q: In Overwatch, how old is Reinhardt Wilhelm?
 A: 61 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who is the God Loki's son? 
+A: Fenrir  - Mythology
