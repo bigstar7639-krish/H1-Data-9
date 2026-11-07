@@ -511,3 +511,17 @@ Motivation 3630
 Paravalla! Rest edu - Thirumba try pannu!
 Fact 155 - Octopus ku 3 heart!
 Pazhamozhi 3632 - Sontha Kaal la Ninnu - Jeyippa!
+Knowledge 3633 - Internet - Hey buddy! 😊 
+
+**Internet**-ஐப் பற்றி சில basic stuff-களை சொல்றேன், Tamil‑Tanglish style‑ல்.  
+
+---
+
+### 1. Internet என்றால் என்ன?  
+Internet என்பது **world‑wide network** of computers. பல கோடிகள் (billions) of devices—phones, laptops, smart fridges—இவை எல்லாம் cables, satellite links, wireless signals (Wi‑Fi, 4G/5G) மூலம் இணைக்கப்பட்டு, data‑ஐ exchange (அதாவது “talk”) செய்கிறது.
+
+### 2. அது எப்படி வேலை செய்கிறது?  
+1. **IP address** – ஒவ்வொரு device-க்கும் unique number (example: 192.168.1.5).  
+2. **DNS (Domain Name System)** – “google.com” போன்ற domain name-ஐ IP‑ஆக convert பண்ணும் phonebook மாதிரி.  
+3. **Packets** – Data-வை சிறிய chunks‑ஆக break பண்ணி, பல routes-ல் travel பண்ணி, destination‑க்கு சேரும்.  
+4. **Protocols** – TCP/IP, HTTP/HTTPS, FTP, SMTP, etc. – இவை எல்லாம் “rules” போல,
