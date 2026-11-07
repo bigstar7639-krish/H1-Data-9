@@ -136,3 +136,6 @@ A: U - Entertainment: Board Games
 Knowledge Quiz
 Q: A statue of Charles Darwin sits in what London museum?
 A: Natural History Museum - General Knowledge
+Knowledge Quiz
+Q: Which of the following games has the largest map size?
+A: Just Cause 2 - Entertainment: Video Games
