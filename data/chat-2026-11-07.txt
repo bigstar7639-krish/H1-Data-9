@@ -605,3 +605,4 @@ Oru tokyo la oru farmer irunthan! Daily dream pannan pannan! Oru naal love kedai
 Talk 3682 - Tokyo pathi pesalama? Sollu!
 Emotion Q 3683 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
+Business Idea 3684 - Tuition - Veetla Tuition!
