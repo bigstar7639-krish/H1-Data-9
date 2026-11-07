@@ -510,3 +510,6 @@ A: Georges Seurat - Art
 Knowledge Quiz
 Q: Alzheimer's disease primarily affects which part of the human body?
 A: Brain - Science & Nature
+Knowledge Quiz
+Q: How many books are in Euclid's Elements of Geometry?
+A: 13 - Science: Mathematics
