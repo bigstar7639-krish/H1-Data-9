@@ -253,3 +253,6 @@ A: San Francisco - History
 Knowledge Quiz
 Q: How many kilobytes in one gigabyte (in decimal)?
 A: 1000000 - Science: Computers
+Knowledge Quiz
+Q: Mary Shelley is the author of what classic horror story?
+A: Frankenstein - Entertainment: Books
