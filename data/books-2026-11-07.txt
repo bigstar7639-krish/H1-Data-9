@@ -24,3 +24,4 @@ kan - in.gazette.karnataka_d.2022-04-20.3995 - Karnataka Daily Gazette, 2022-04-
 kan - in.gazette.karnataka_eo.2020-11-07.DPAR73GAM20194 - Karnataka ExtraOrdinary Gazette, 2020-11-07, Extra Ordinary, Part IVA
 kan - in.gazette.karnataka_d.2022-01-29.3607 - Karnataka Daily Gazette, 2022-01-29, Daily
 kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
+eng - in.goa.egaz.0910-29.SIII - Gazette of Goa, No. 0910-29, SIII
