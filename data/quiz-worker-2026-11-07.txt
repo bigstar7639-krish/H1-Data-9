@@ -208,3 +208,6 @@ A: Hans Christian Andersen
 Auto Quiz - Sleep 🧠
 Q: What animal is featured in &quot;Bloons TD Battles&quot;?
 A: Monkeys
+Auto Quiz - Beauty 🧠
+Q: Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?
+A: Trajan
