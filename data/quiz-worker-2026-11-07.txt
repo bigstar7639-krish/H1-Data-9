@@ -37,3 +37,6 @@ A: Spain
 Auto Quiz - Destiny 🧠
 Q: Which Batman sidekick is the son of Talia al Ghul?
 A: Damian Wayne
+Auto Quiz - Karma 🧠
+Q: In &quot;Star Trek&quot;, what is the Klingon delicacy of &quot;gagh&quot; made from?
+A: Serpent worms
