@@ -83,3 +83,5 @@ Motivation 3371
 Paravalla! Rest edu - Thirumba try pannu!
 Joke 3372
 Teacher: Yen late? Student: School Ahead board!
+Coding Q 3373 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
