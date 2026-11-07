@@ -416,3 +416,6 @@ A: Serbia - Science: Computers
 Knowledge Quiz
 Q: In the Yakuza series who is the Dragon of Dojima?
 A: Kazuma Kiryu - Entertainment: Video Games
+Knowledge Quiz
+Q: The original mascot of the popular Nintendo game, "Splatoon" was going to be...
+A: Mario - Entertainment: Video Games
