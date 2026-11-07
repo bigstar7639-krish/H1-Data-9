@@ -66,3 +66,4 @@ Kavithai 3357 - Un Sirippu - En Vazhkai! - Aira
 Vocab 3358 - Happy = Santhosham
 Thirukkural 3359 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Reading 3360 - Ramayana!
+Recipe 3361 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
