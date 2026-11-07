@@ -13,3 +13,6 @@ A: 26
 Auto Quiz - Peace 🧠
 Q: What is widely considered to be the oldest civilization known to mankind?
 A: Sumeria
+Auto Quiz - Courage 🧠
+Q: In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?
+A: Myrtenaster
