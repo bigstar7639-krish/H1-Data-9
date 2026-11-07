@@ -138,3 +138,4 @@ Cat - Cat's Cradle
 Cat - Cat & Mouse
 Dog - Dog Man
 Dog - Shoe Dog
+Dog - Harry the Dirty Dog
