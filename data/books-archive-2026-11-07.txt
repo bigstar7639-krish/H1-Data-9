@@ -144,3 +144,4 @@ Yoga - pubmed-PMC3768217 - Effect of yoga therapy on anxiety and depressive symp
 Yoga - pubmed-PMC3371559 - Yoga camp in Ayurvedgrams of Chhattisgarh.
 Meditation - isbn_393355604 - Das Feuer der Meditation (Livre en allemand)
 Meditation - MeditationMusicjson - Meditation Musicjson
+Fitness - nashvilles-leading-fitness-trends-and-expert-training-insights - Nashville's Leading Fitness Trends And Expert Training Insights
