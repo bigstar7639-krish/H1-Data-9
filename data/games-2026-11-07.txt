@@ -13,3 +13,4 @@ Game 3613 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Game 3673 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 3691 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 3766 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Game 3783 - Coin Toss - Ne Toss nu Sollu!
