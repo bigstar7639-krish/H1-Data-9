@@ -125,3 +125,4 @@ Star - bwb_S0-BKM-870 - Lone Star General Hiram Bronson Granbury
 Moon - isbn_9781424109401 - Watercolour Essences of Moon
 Moon - bwb_Y0-BVX-676 - TONGUES OF THE MOON
 Sun - bwb_Y0-EAO-914 - THe Sun Also RIses
+Sun - bwb_T5-DGH-052 - The Sun and Its Influence
