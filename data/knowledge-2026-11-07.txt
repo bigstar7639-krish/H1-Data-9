@@ -19,3 +19,6 @@ A: Dexter - Entertainment: Television
 Knowledge Quiz
 Q: In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?
 A: Green Flu - Entertainment: Video Games
+Knowledge Quiz
+Q: Which game did NOT get financed via Crowdfunding?
+A: Enter the Gungeon - Entertainment: Video Games
