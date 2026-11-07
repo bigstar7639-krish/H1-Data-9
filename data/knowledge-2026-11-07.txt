@@ -631,3 +631,6 @@ Knowledge 3764 - Courage - Courage pathi sollu - Nalla question! Daily try pannu
 Knowledge Quiz
 Q: Which country gifted the Statue of Liberty to the United States of America?
 A: France - History
+Knowledge Quiz
+Q: Which of the following is the standard THX subwoofer crossover frequency?
+A: 80 Hz - Science: Gadgets
