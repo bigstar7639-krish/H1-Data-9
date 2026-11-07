@@ -147,3 +147,6 @@ Knowledge Quiz
 Q: On the Beaufort Scale of wind force, what wind name is given to number 8?
 A: Gale - Science & Nature
 Knowledge 3431 - Python - Python loop: `for i in range(5): print(i)`
+Knowledge Quiz
+Q: The characters of "Log Horizon" are trapped in what game?
+A: Elder Tale - Entertainment: Japanese Anime & Manga
