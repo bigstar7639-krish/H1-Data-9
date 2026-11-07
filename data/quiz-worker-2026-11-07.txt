@@ -331,3 +331,6 @@ A: Estus Flask - Entertainment: Video Games
 Auto Quiz - Morning 🧠
 Q: Which of these is not an Ed Sheeran album?
 A: - - Entertainment: Music
+Auto Quiz - Night 🧠
+Q: Valve Corporation is an American video game developer located in which city?
+A: Bellevue, Washington - Entertainment: Video Games
