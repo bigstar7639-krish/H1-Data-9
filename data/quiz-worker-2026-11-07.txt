@@ -262,3 +262,6 @@ A: HTC - General Knowledge
 Auto Quiz - Diwali 🧠
 Q: Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
 A: 44.1 kHz - Science: Computers
+Auto Quiz - Pongal 🧠
+Q: What song includes the words "Numa Numa" which was subject to a Viral Video in 2004?
+A: Dragostea Din Tei - Entertainment: Music
