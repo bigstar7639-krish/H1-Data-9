@@ -303,3 +303,6 @@ A: Barrier - Entertainment: Video Games
 Knowledge Quiz
 Q: When did the French Revolution begin?
 A: 1789 - History
+Knowledge Quiz
+Q: In the 2002 video game "Kingdom Hearts", how many playable worlds were there?
+A: 14 - Entertainment: Video Games
