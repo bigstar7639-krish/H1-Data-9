@@ -256,3 +256,22 @@ A: 1000000 - Science: Computers
 Knowledge Quiz
 Q: Mary Shelley is the author of what classic horror story?
 A: Frankenstein - Entertainment: Books
+Knowledge 3519 - Quran - **Quran-ஐ பற்றி சில முக்கிய விஷயங்கள் (Tamil + Tanglish)**  
+
+---
+
+### 1️⃣ என்னது?  
+Quran (அல்லது Qur’an) என்பது இஸ்லாமின் புனித நூல். இது **அல்லாஹ் (God)**‑இன் வார்த்தைகளை, **Prophet Muhammad (ஸல்.)**‑க்கு **Arabic**‑யில் வெளிப்படுத்தியதாகக் கூறப்படுகிறது. Muslims இதை “அறியப்படாத, மாறாத, முழுமையான வழிகாட்டி” (Guide) எனக் கருதுகிறார்கள்.
+
+---
+
+### 2️⃣ அமைப்பு (Structure)  
+- **114 Surahs (அத்தியாயங்கள்)** – பெரியதிலிருந்து சிறியதுவரை வரிசைப்படுத்தப்பட்டுள்ளன.  
+- Surah‑கள் **Ayahs (வாக்கியங்கள்)**‑ஆகப் பிரிக்கப்பட்டுள்ளன; மொத்தம் **≈ 6,236 Ayahs**.  
+- ஒவ்வொரு Surah‑வும் **Meccan** (மக்காவைத் திரும்பிய காலம்) அல்லது **Medinan** (மதீனாவைத் திரும்பிய காலம்) ஆக வகைப்படுத்தப்படுகிறது.  
+
+---
+
+### 3️⃣ முக்கிய கருக்கள் (Core Themes)  
+| Theme | Brief Explanation |
+|-------|-------------------|
