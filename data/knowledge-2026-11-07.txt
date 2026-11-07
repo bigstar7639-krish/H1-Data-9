@@ -709,3 +709,6 @@ A: Drill Containment Unit - Entertainment: Video Games
 Knowledge Quiz
 Q: Where was the Games of the XXII Olympiad held?
 A: Moscow - Sports
+Knowledge Quiz
+Q: Which country is featured in Ace Combat 5: The Unsung War?
+A: Osea - Entertainment: Video Games
