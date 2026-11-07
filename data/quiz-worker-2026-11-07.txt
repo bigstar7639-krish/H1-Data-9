@@ -106,3 +106,6 @@ A: The universe is finite in age and size
 Auto Quiz - Smile 🧠
 Q: What does the &#039;S&#039; in the RSA encryption algorithm stand for?
 A: Shamir
+Auto Quiz - Future 🧠
+Q: During World War I, which nation&#039;s monarchs were blood related?
+A: England, Germany, Russia
