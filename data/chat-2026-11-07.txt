@@ -722,3 +722,4 @@ Recipe 3744 - Cake - Maida + Sugar + Egg + 30 min!
 Vocab 3745 - Courage = Thairiyam
 Motivation 3746
 Paravalla! Rest edu - Thirumba try pannu!
+Talk 3747 - Money pathi pesalama? Sollu!
