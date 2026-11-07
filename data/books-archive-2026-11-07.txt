@@ -217,3 +217,4 @@ Earth - bwb_Y0-AAU-315 - Broken Earth
 Water - geologygroundwat0000unse_k7g3 - Geology and Ground-Water Resources of Martin County, Florida [Report of Investigations No. 23]
 Water - bwb_W9-DAH-151 - THE WATER BOOK OF EASTERN SAINTS
 Coffee - gov.uscourts.nysd.658230 - Hunte v. Moka Mo Coffee House Corp.
+Coffee - everythingbutcof0000simo_g8d9 - Everything but the coffee : learning about America from Starbucks
