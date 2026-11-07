@@ -85,3 +85,6 @@ A: Sen (Thousand)
 Auto Quiz - Eiffel Tower 🧠
 Q: Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?
 A: Nikita Khrushchev
+Auto Quiz - Psychology 🧠
+Q: Who was the first man to travel into outer space twice?
+A: Gus Grissom
