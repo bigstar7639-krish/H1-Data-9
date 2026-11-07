@@ -16,3 +16,4 @@ Game 3766 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 3783 - Coin Toss - Ne Toss nu Sollu!
 Game 3790 - Dice - Ne Dice nu Sollu!
 Game 3807 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 3819 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
