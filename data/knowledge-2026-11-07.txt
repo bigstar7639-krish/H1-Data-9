@@ -282,3 +282,6 @@ A: 2011 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who founded the Khan Academy?
 A: Sal Khan - General Knowledge
+Knowledge Quiz
+Q: After how many years would you celebrate your crystal anniversary?
+A: 15 - General Knowledge
