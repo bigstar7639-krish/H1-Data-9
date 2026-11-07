@@ -334,3 +334,6 @@ A: - - Entertainment: Music
 Auto Quiz - Night 🧠
 Q: Valve Corporation is an American video game developer located in which city?
 A: Bellevue, Washington - Entertainment: Video Games
+Auto Quiz - Home 🧠
+Q: Who is the main protagonist in the 'Ratchet and Clank' game series?
+A: Ratchet - Entertainment: Video Games
