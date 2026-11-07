@@ -217,3 +217,6 @@ A: 1986
 Auto Quiz - Sport 🧠
 Q: What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?
 A: Viktor Tsoi
+Auto Quiz - Football 🧠
+Q: At which race was the 2018 F1 Drivers Championship won?
+A: Mexico
