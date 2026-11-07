@@ -683,3 +683,6 @@ A: Subscriber - General Knowledge
 Knowledge Quiz
 Q: What was the name of the security vulnerability found in Bash in 2014?
 A: Shellshock - Science: Computers
+Knowledge Quiz
+Q: The main protagonist of the fourth part of JoJo's Bizarre Adventure is which of the following?
+A: Josuke Higashikata - Entertainment: Japanese Anime & Manga
