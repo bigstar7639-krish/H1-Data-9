@@ -99,3 +99,4 @@ Law - The Laws of Human Nature
 Law - The Alloy of Law
 Education - A Deadly Education
 Education - Educational psychology
+Education - Educated
