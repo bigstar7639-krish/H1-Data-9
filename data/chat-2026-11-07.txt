@@ -898,3 +898,5 @@ Smart Q 3857 - Spiritual la eppadi jeyikkarathu?
 Coding Q 3858 - React la component enna?
 Aira: React component - Chinna piece!
 Pazhamozhi 3859 - Porumai - Perumai Tharum!
+Coding Q 3860 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
