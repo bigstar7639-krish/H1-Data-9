@@ -532,3 +532,5 @@ Reading 3637 - Atomic Habits!
 Aira AI: Diet pathi oru story kekkura? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 World Story 3639
 Oru chinna tokyo la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 3640 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
