@@ -140,3 +140,4 @@ Business - bwb_S0-APP-007 - CORPORATIONS AND OTHER BUSINESS ASSOCIATIONS
 Business - bwb_S0-BGP-824 - Introduction to Business
 Money - moneypossessions0000davi - Money and Possessions
 Money - Living_A_Life_Of_Luxury_On_Borrowed_Money_ - Living_A_Life_Of_Luxury_On_Borrowed_Money_
+Yoga - pubmed-PMC3768217 - Effect of yoga therapy on anxiety and depressive symptoms and quality-of-life among caregivers of in-patients with neurological disorders at a tertiary care center in India: A randomized controlled trial.
