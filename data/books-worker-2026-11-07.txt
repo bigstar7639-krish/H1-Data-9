@@ -327,3 +327,4 @@ Pizza - Playing for Pizza
 Pizza - The Pizza Mystery
 Pizza - Pete's a Pizza
 Burger - Burger's daughter
+Burger - Burger boy
