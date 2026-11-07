@@ -130,3 +130,6 @@ A: Shoot &#039;Em Up
 Auto Quiz - Cat 🧠
 Q: What is the canonical name of the Persona 4 protagonist?
 A: Yu Narukami
+Auto Quiz - Food 🧠
+Q: Where in the human body is the Pineal Gland located?
+A: Brain
