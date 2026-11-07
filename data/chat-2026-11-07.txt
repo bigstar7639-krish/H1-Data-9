@@ -615,3 +615,5 @@ Vocab 3690 - Peace = Amaithi
 Game 3691 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Reading 3692 - Atomic Habits!
 Vocab 3693 - Success = Vetri
+Emotion Q 3694 - love?
+Aira: Kadhal - Azhagu!
