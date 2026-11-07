@@ -265,3 +265,6 @@ A: 44.1 kHz - Science: Computers
 Auto Quiz - Pongal 🧠
 Q: What song includes the words "Numa Numa" which was subject to a Viral Video in 2004?
 A: Dragostea Din Tei - Entertainment: Music
+Auto Quiz - Indian Temple 🧠
+Q: What is the capital of the State of Washington, United States?
+A: Olympia - Geography
