@@ -91,3 +91,5 @@ Q 3376 - Ne Thirukkural la eppadi improve panna mudiyum?
 Health 3377 - Health Tip: Fruits daily saapdunga!
 Story 3378
 Oru sea la oru doctor irunthan! Daily book padichan pannan! Oru naal magic kedaichuchu! Life maariduchu!
+Joke 3379
+Why bike sad? Petrol illa!
