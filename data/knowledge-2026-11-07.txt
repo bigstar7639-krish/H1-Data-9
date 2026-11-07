@@ -730,3 +730,6 @@ A: The Prince - Politics
 Knowledge Quiz
 Q: How many French Open's did Björn Borg win?
 A: 6 - Sports
+Knowledge Quiz
+Q: What company developed the Xbox line of video game consoles?
+A: Microsoft - Entertainment: Video Games
