@@ -259,3 +259,6 @@ A: Peter Fleming - Sports
 Auto Quiz - Biryani 🧠
 Q: Which company did Valve cooperate with in the creation of the Vive?
 A: HTC - General Knowledge
+Auto Quiz - Diwali 🧠
+Q: Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+A: 44.1 kHz - Science: Computers
