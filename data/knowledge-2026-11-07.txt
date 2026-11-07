@@ -213,3 +213,16 @@ A: Sonic the Hedgehog #11 - Entertainment: Comics
 Knowledge Quiz
 Q: Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?
 A: The Muppets Take Manhattan - Entertainment: Film
+Knowledge 3489 - Cricket - Hey buddy! 🙌 நீங்க Cricket‑பற்றி அறியணும், பண்ணலாம்! Let’s dive into the world of **Cricket** – a game that’s like a festival in many countries. 
+
+---
+
+## 🏏 Cricket 101 – Basics (Tamil‑Tanglish)
+
+| புள்ளி | விளக்கம் |
+|------|-----------|
+| **ஆட்டம் (Match)** | ஒவ்வொரு ஆட்டமும் **innings**‑களை கொண்டது. ஒவ்வொரு side‑லும் 1 அல்லது 2 innings (Test), 1 innings (ODI, T20) விளையாடும். |
+| **பந்து (Ball)** | 5.75 inches (≈ 14.6 cm) circumference, 156 grams. Made of leather. |
+| **கூட்டு (Teams)** | 2 teams, ஒவ்வொரு team‑லும் 11 players. |
+| **முதன்மை பங்குகள் (Main roles)** | **Batsmen** (அடி), **Bowlers** (எறி), **All‑rounders** (இரண்டையும்), **Wicket‑keeper** (விக்கெட்). |
+| **ஸ்கோர்கள் (Scoring)** | ஒவ்வொரு **run**‑க்கும் ball‑ஐ field‑இல் இரு wickets‑கிடைநிலை (crease)களைத் தாண்டவைக்க வேண்டும்.
