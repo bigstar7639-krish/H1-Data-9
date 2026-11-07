@@ -535,3 +535,5 @@ Oru chinna tokyo la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana
 Coding Q 3640 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Talk 3641 - Singing pathi pesalama? Sollu!
+World Story 3642
+Oru sea la oru doctor irunthan! Daily help pannan pannan! Oru naal book kedaichuchu! Life maariduchu!
