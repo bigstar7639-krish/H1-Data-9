@@ -562,3 +562,4 @@ World Story 3658
 Oru chinna forest la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Talk 3659 - Hope pathi pesalama? Sollu!
 Business Idea 3660 - Instagram Page - Daily 1 Post!
+Vocab 3661 - Friend = Nanban
