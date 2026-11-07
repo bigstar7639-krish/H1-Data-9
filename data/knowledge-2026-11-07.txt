@@ -171,3 +171,6 @@ A: Camberley - Entertainment: Music
 Knowledge Quiz
 Q: What is the name of the author of book series 'Percy Jackson'?
 A: Rick Riordan - Entertainment: Books
+Knowledge Quiz
+Q: Which of the following are cells of the adaptive immune system?
+A: Cytotoxic T cells - Science & Nature
