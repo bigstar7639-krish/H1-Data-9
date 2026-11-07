@@ -160,3 +160,6 @@ A: 1991
 Auto Quiz - River 🧠
 Q: Which city hosted the CS:GO Dreamhack Open 2015?
 A: Cluj-Napoca
+Auto Quiz - Sky 🧠
+Q: What is the name of the corgi in Cowboy Bebop?
+A: Einstein
