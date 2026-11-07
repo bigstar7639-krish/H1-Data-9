@@ -163,3 +163,6 @@ A: Cluj-Napoca
 Auto Quiz - Sky 🧠
 Q: What is the name of the corgi in Cowboy Bebop?
 A: Einstein
+Auto Quiz - Star 🧠
+Q: In what country were the 2014 Winter Olympics held in the town of Sochi?
+A: Russia
