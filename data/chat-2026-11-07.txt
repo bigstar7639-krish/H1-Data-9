@@ -727,3 +727,4 @@ Movie 3748 - Leo - Vijay - Action!
 Talk 3749 - Thirukkural pathi pesalama? Sollu!
 Fact 160 - Tamil - 2000+ varusha mozhi!
 Quote 3751 - Daily try pannu - Jeyichiduva! - Aira
+Thirukkural 3752 - Kattrathu - Kai Mann Alavu! - Thirukkural
