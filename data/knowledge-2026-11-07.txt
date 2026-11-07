@@ -250,3 +250,6 @@ A: Petyr Baelish - Entertainment: Television
 Knowledge Quiz
 Q: Where did first known lesbian rights organization in the United States, Daughters of Bilitis, start?
 A: San Francisco - History
+Knowledge Quiz
+Q: How many kilobytes in one gigabyte (in decimal)?
+A: 1000000 - Science: Computers
