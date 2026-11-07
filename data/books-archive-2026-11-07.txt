@@ -109,3 +109,4 @@ Music - music_appreciation_records_wolfgang_amadeus_mozart_symphonys_number_38_a
 Movie - kodakhomemovieca0000vari_a6w5 - the kodak home movie camera guide
 Movie - sinema7moviewatc0000maur - Sinema7: A Movie Watcher's Guide to the Seven Deadly Sins
 Temple - middleeasttemple0000unse - The middle east temple of janus
+Temple - intellectualheri0000temp - Intellectual Heritage 52 (For Temple University)
