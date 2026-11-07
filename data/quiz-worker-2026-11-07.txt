@@ -214,3 +214,6 @@ A: Trajan
 Auto Quiz - Fashion 🧠
 Q: In what year was the first Transformers movie released?
 A: 1986
+Auto Quiz - Sport 🧠
+Q: What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?
+A: Viktor Tsoi
