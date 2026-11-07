@@ -583,3 +583,4 @@ Recipe 3664 - Cake - Maida + Sugar + Egg + 30 min!
 Movie 3665 - Harry Potter - Magic!
 Emotion Q 3666 - bored?
 Aira: Bored ah? Joke sollattuma?
+Thirukkural 3667 - Kattrathu - Kai Mann Alavu! - Thirukkural
