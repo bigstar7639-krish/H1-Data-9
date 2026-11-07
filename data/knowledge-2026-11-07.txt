@@ -597,3 +597,6 @@ A: San Marino - History
 Knowledge Quiz
 Q: What mythology did the god "Apollo" come from?
 A: Greek and Roman - Mythology
+Knowledge Quiz
+Q: In "Battle Cats", what is Moneko / MISS Moneko's critical percentage rate?
+A: 15% - General Knowledge
