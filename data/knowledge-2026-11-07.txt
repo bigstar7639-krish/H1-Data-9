@@ -680,3 +680,6 @@ A: Electric Town - Geography
 Knowledge Quiz
 Q: What does the 'S' stand for in the abbreviation SIM, as in SIM card? 
 A: Subscriber - General Knowledge
+Knowledge Quiz
+Q: What was the name of the security vulnerability found in Bash in 2014?
+A: Shellshock - Science: Computers
