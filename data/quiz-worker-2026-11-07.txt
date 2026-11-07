@@ -226,3 +226,6 @@ A: Radar
 Auto Quiz - Panda 🧠
 Q: Which city is the capital of the United States of America?
 A: Washington D.C - Geography
+Auto Quiz - Chinese Food 🧠
+Q: What year did Albrecht Dürer create the painting "The Young Hare"?
+A: 1502 - Art
