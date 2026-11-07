@@ -25,3 +25,6 @@ A: Enter the Gungeon - Entertainment: Video Games
 Knowledge Quiz
 Q: Which 80s band is fronted by singer/guitarist Robert Smith?
 A: The Cure - Entertainment: Music
+Knowledge Quiz
+Q: Which is the hull NO. of the Fletcher class destroyer Fletcher?
+A: DD-445 - History
