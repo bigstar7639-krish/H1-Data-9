@@ -694,3 +694,6 @@ Knowledge 3809 - AI - AI - Data paathu - Pattern!
 Knowledge Quiz
 Q: What is the relationship between Rick and Morty in the show "Rick and Morty"?
 A: Grandfather and Grandson - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: What is the name of the island introduced in the ARMA III: APEX expansion pack?
+A: Tanoa - Entertainment: Video Games
