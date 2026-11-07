@@ -183,3 +183,6 @@ A: Saphira - Entertainment: Books
 Knowledge Quiz
 Q: In "Halo", what is the name of the planet which Installation 04 orbits?
 A: Threshold - Entertainment: Video Games
+Knowledge Quiz
+Q: Chronic Wasting Disease (CWD) exclusively infects members of which family of animals?
+A: Cervids - Animals
