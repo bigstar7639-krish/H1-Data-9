@@ -395,3 +395,6 @@ A: World War I - History
 Knowledge Quiz
 Q: Who created the Final Fantasy series developed by Square Enix?
 A: Hironobu Sakaguchi - Entertainment: Video Games
+Knowledge Quiz
+Q: Blinky, Pinky, Inky and Clyde are characters from which classic video game?
+A: Pac-Man - Entertainment: Video Games
