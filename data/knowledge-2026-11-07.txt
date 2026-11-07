@@ -430,3 +430,6 @@ Knowledge 3629 - AI - AI - Data paathu - Pattern!
 Knowledge Quiz
 Q: Which of the following won the first season of American Idol in 2002?
 A: Kelly Clarkson - Entertainment: Television
+Knowledge Quiz
+Q: Which song on Daft Punk's "Random Access Memories" features Pharrell Williams?
+A: Get Lucky - Entertainment: Music
