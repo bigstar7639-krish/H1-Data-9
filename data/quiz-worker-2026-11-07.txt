@@ -202,3 +202,6 @@ A: Coins
 Auto Quiz - Fitness 🧠
 Q: What is the shape of the toy invented by Hungarian professor Ernő Rubik?
 A: Cube
+Auto Quiz - Diet 🧠
+Q: Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?
+A: Hans Christian Andersen
