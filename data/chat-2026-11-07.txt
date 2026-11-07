@@ -462,3 +462,4 @@ Story 3605
 Oru new york la oru farmer irunthan! Daily book padichan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Coding Q 3606 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Recipe 3607 - Cake - Maida + Sugar + Egg + 30 min!
