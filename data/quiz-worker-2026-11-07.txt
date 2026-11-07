@@ -133,3 +133,6 @@ A: Yu Narukami
 Auto Quiz - Food 🧠
 Q: Where in the human body is the Pineal Gland located?
 A: Brain
+Auto Quiz - Cricket 🧠
+Q: Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?
+A: LazyTown
