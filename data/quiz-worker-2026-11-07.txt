@@ -223,3 +223,6 @@ A: Mexico
 Auto Quiz - Science 🧠
 Q: In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?
 A: Radar
+Auto Quiz - Panda 🧠
+Q: Which city is the capital of the United States of America?
+A: Washington D.C - Geography
