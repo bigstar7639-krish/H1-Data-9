@@ -97,3 +97,6 @@ A: Teardrop
 Auto Quiz - Politics 🧠
 Q: Which Animal Crossing game was for the Nintendo Wii?
 A: Animal Crossing: City Folk
+Auto Quiz - Education 🧠
+Q: In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?
+A: Answer a riddle
