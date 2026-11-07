@@ -733,3 +733,6 @@ A: 6 - Sports
 Knowledge Quiz
 Q: What company developed the Xbox line of video game consoles?
 A: Microsoft - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these roles in Town of Salem is mafia?
+A: Disguiser - Entertainment: Video Games
