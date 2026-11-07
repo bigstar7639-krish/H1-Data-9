@@ -491,3 +491,6 @@ Knowledge 3670 - Fitness - Fitness pathi sollu - Nalla question! Daily try pannu
 Knowledge Quiz
 Q: In Splatoon, what is the age that inklings can freely change between squid and humanoid forms?
 A: 14 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following is NOT a Nintendo game console?
+A: Dreamcast - Entertainment: Video Games
