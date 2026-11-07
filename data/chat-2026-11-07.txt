@@ -439,3 +439,4 @@ Teacher: Yen late? Student: School Ahead board!
 Health 3586 - Health Tip: 7 mani neram thoongunga!
 Thirukkural 3587 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Health 3588 - Health Tip: Daily 30 min walk ponga!
+Health 3589 - Health Tip: Fruits daily saapdunga!
