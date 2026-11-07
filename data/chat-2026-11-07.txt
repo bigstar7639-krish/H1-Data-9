@@ -526,3 +526,4 @@ Internet என்பது **world‑wide network** of computers. பல கோ
 3. **Packets** – Data-வை சிறிய chunks‑ஆக break பண்ணி, பல routes-ல் travel பண்ணி, destination‑க்கு சேரும்.  
 4. **Protocols** – TCP/IP, HTTP/HTTPS, FTP, SMTP, etc. – இவை எல்லாம் “rules” போல,
 Aira AI: Ne Spiritual la eppadi improve panna mudiyum? - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Thirukkural 3635 - Porumai - Periya Sakthi! - Thirukkural
