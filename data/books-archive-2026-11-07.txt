@@ -139,3 +139,4 @@ Student - effectofgraderet0000nanc - effect of grade retention on student achiev
 Business - bwb_S0-APP-007 - CORPORATIONS AND OTHER BUSINESS ASSOCIATIONS
 Business - bwb_S0-BGP-824 - Introduction to Business
 Money - moneypossessions0000davi - Money and Possessions
+Money - Living_A_Life_Of_Luxury_On_Borrowed_Money_ - Living_A_Life_Of_Luxury_On_Borrowed_Money_
