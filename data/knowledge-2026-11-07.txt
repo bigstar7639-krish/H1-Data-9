@@ -56,3 +56,6 @@ A: cos(x) - Science: Mathematics
 Knowledge Quiz
 Q: In vanilla Minecraft, which of the following cannot be made into a block?
 A: Charcoal - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these colours is NOT featured in the logo for Google?
+A: Pink - General Knowledge
