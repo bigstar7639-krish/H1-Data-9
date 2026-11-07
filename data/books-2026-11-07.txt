@@ -11,3 +11,4 @@ kan - in.gazette.karnataka_eo.2020-06-24.UDD05MLR2018 - Karnataka ExtraOrdinary 
 kor - chosun-ilbo-1927.03.29m - 朝鮮日報 1927.03.29m
 kor - chosun-ilbo-1923.09.22e - 朝鮮日報 1923.09.22e
 kor - chosun-ilbo-1929.02.21e - 朝鮮日報 1929.02.21e
+kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
