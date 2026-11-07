@@ -186,3 +186,4 @@ Knowledge 3429 - Earth - Earth pathi sollu - Nalla question! Daily try pannu - J
 Quote 3430 - Daily try pannu - Jeyichiduva! - Aira
 Knowledge 3431 - Python - Python loop: `for i in range(5): print(i)`
 Recipe 3432 - Cake - Maida + Sugar + Egg + 30 min!
+Quote 3433 - Daily try pannu - Jeyichiduva! - Aira
