@@ -31,3 +31,6 @@ A: DD-445 - History
 Knowledge Quiz
 Q: Which of the following is not the name of a "Bond Girl"? 
 A: Vanessa Kensington - Entertainment: Film
+Knowledge Quiz
+Q: In the Mass Effect trilogy, who is the main protagonist?
+A: Shepard - Entertainment: Video Games
