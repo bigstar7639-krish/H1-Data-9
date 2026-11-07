@@ -39,3 +39,5 @@ Smart Q 3342 - Travel la eppadi jeyikkarathu?
 Business Idea 3343 - Tuition - Veetla Tuition!
 Talk 3344 - Madurai pathi pesalama? Sollu!
 Smart Q 3345 - Shakespeare la eppadi jeyikkarathu?
+Story 3346
+Oru chinna city la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
