@@ -460,3 +460,5 @@ Business Idea 3603 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Quote 3604 - Daily try pannu - Jeyichiduva! - Aira
 Story 3605
 Oru new york la oru farmer irunthan! Daily book padichan pannan! Oru naal power kedaichuchu! Life maariduchu!
+Coding Q 3606 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
