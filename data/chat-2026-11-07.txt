@@ -534,3 +534,4 @@ World Story 3639
 Oru chinna tokyo la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Coding Q 3640 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Talk 3641 - Singing pathi pesalama? Sollu!
