@@ -724,3 +724,6 @@ A: Ben Burtt - Entertainment: Film
 Knowledge Quiz
 Q: When someone is cowardly, they are said to have what color belly?
 A: Yellow - General Knowledge
+Knowledge Quiz
+Q: What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?
+A: The Prince - Politics
