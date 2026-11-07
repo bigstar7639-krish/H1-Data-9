@@ -671,3 +671,6 @@ Knowledge 3792 - Chemistry - Hey buddy! நீ chemistry‑ஐப் பற்
 | **Organic Chemistry** | Carbon‑based compounds (C‑H, C‑C bonds) | Drug design, plastics, sugars |
 | **Inorganic Chemistry** | Non‑carbon elements & their compounds | Metals, minerals, catalysts |
 | **Analytical Chemistry** | De
+Knowledge Quiz
+Q: What was the first feature-length computer-animated movie?
+A: Toy Story - Entertainment: Film
