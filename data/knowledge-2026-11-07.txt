@@ -447,3 +447,6 @@ Internet என்பது **world‑wide network** of computers. பல கோ
 2. **DNS (Domain Name System)** – “google.com” போன்ற domain name-ஐ IP‑ஆக convert பண்ணும் phonebook மாதிரி.  
 3. **Packets** – Data-வை சிறிய chunks‑ஆக break பண்ணி, பல routes-ல் travel பண்ணி, destination‑க்கு சேரும்.  
 4. **Protocols** – TCP/IP, HTTP/HTTPS, FTP, SMTP, etc. – இவை எல்லாம் “rules” போல,
+Knowledge Quiz
+Q: What is the thin, outermost layer of the Earth?
+A: Crust - Science & Nature
