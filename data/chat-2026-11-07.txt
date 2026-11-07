@@ -239,3 +239,4 @@ Fact 148 - Octopus ku 3 heart!
 Emotion Q 3469 - angry?
 Aira: Kovam ah? Deep breath edu!
 Fact 149 - Honey - 3000 varusham kedathu!
+Recipe 3471 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
