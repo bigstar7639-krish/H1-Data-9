@@ -168,3 +168,6 @@ A: Lordgenome - Entertainment: Television
 Knowledge Quiz
 Q: Where did the British Boy Band "Bros" come from?
 A: Camberley - Entertainment: Music
+Knowledge Quiz
+Q: What is the name of the author of book series 'Percy Jackson'?
+A: Rick Riordan - Entertainment: Books
