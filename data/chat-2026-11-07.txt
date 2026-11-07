@@ -488,3 +488,4 @@ Game 3611 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 World Story 3612
 Oru village la oru ponnu irunthan! Daily try pannan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
 Game 3613 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Health 3614 - Health Tip: 7 mani neram thoongunga!
