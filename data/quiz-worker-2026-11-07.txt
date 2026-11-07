@@ -289,3 +289,6 @@ A: Peace of Westphalia - History
 Auto Quiz - Desert 🧠
 Q: In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?
 A: Green - Science: Computers
+Auto Quiz - Snow 🧠
+Q: This field is sometimes known as “The Dismal Science.”
+A: Economics - General Knowledge
