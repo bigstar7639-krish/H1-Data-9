@@ -481,3 +481,6 @@ A: Cube - General Knowledge
 Knowledge Quiz
 Q: The first Legoland park was opened in 1968 in which of these cities?
 A: Billund, Denmark - History
+Knowledge Quiz
+Q: What is centralism?
+A:  Concentration of power and authority in a central organization. - Politics
