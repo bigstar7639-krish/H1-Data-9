@@ -184,3 +184,4 @@ Kalki Krishnamurthy didn’t just write the novel in a quiet study. While draf
 Because of that, the **“train‑like” pacing** you feel in the early chapters (the quick switches between conspiracies, secret meetings, and chase scenes) is literally inspired by the **sound of the moving train**. Kalki even mentioned in a later interview t
 Knowledge 3429 - Earth - Earth pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Quote 3430 - Daily try pannu - Jeyichiduva! - Aira
+Knowledge 3431 - Python - Python loop: `for i in range(5): print(i)`
