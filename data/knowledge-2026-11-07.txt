@@ -463,3 +463,6 @@ A: Showdown - Entertainment: Video Games
 Knowledge Quiz
 Q: What is “The Sport of Kings”?
 A: Horse Racing - Sports
+Knowledge Quiz
+Q: The element involved in making human blood red is which of the following?
+A: Iron - Science & Nature
