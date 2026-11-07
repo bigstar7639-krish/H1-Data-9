@@ -286,3 +286,6 @@ A: Bill Cosby - Entertainment: Television
 Auto Quiz - Beach 🧠
 Q: The Thirty Years War ended with which treaty?
 A: Peace of Westphalia - History
+Auto Quiz - Desert 🧠
+Q: In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?
+A: Green - Science: Computers
