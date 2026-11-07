@@ -115,3 +115,6 @@ A: Bellevue, Washington - Entertainment: Video Games
 Knowledge Quiz
 Q: Which CS:GO eSports team won the major event ESL One Cologne 2016?
 A: SK Gaming - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the first level in "Call of Duty: World at War"?
+A: Semper Fi - Entertainment: Video Games
