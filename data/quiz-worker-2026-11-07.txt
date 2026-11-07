@@ -211,3 +211,6 @@ A: Monkeys
 Auto Quiz - Beauty 🧠
 Q: Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?
 A: Trajan
+Auto Quiz - Fashion 🧠
+Q: In what year was the first Transformers movie released?
+A: 1986
