@@ -553,3 +553,5 @@ Movie 3652 - Harry Potter - Magic!
 Pazhamozhi 3653 - Sontha Kaal la Ninnu - Jeyippa!
 Joke 3654
 Why bike sad? Petrol illa!
+Coding Q 3655 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
