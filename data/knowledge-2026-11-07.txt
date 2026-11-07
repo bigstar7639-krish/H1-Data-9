@@ -146,3 +146,4 @@ Knowledge 3429 - Earth - Earth pathi sollu - Nalla question! Daily try pannu - J
 Knowledge Quiz
 Q: On the Beaufort Scale of wind force, what wind name is given to number 8?
 A: Gale - Science & Nature
+Knowledge 3431 - Python - Python loop: `for i in range(5): print(i)`
