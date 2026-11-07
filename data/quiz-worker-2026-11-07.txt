@@ -154,3 +154,6 @@ A: 2003
 Auto Quiz - Sea 🧠
 Q: Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?
 A: Sonic &amp; Knuckles
+Auto Quiz - Mountain 🧠
+Q: The collapse of the Soviet Union took place in which year?
+A: 1991
