@@ -187,3 +187,4 @@ Quote 3430 - Daily try pannu - Jeyichiduva! - Aira
 Knowledge 3431 - Python - Python loop: `for i in range(5): print(i)`
 Recipe 3432 - Cake - Maida + Sugar + Egg + 30 min!
 Quote 3433 - Daily try pannu - Jeyichiduva! - Aira
+Smart Q 3434 - Tokyo la eppadi jeyikkarathu?
