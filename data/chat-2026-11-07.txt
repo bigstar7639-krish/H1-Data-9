@@ -784,3 +784,4 @@ Smart Q 3786 - Health la eppadi jeyikkarathu?
 Thirukkural 3787 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Smart Q 3788 - Yoga la eppadi jeyikkarathu?
 Reading 3789 - Mahabharata!
+Game 3790 - Dice - Ne Dice nu Sollu!
