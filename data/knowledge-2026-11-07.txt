@@ -366,3 +366,6 @@ Knowledge 3574 - Confidence - Hey friend! 😊 Let’s talk about **confiden
 Knowledge Quiz
 Q: What is the surname of the character Daryl in AMC's show The Walking Dead?
 A: Dixon - Entertainment: Television
+Knowledge Quiz
+Q: Who played the sun baby in the original run of Teletubbies?
+A: Jessica Smith - Entertainment: Television
