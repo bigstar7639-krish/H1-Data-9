@@ -50,3 +50,7 @@ Science - bwb_Y0-BTC-960 - Famous Men of Science
 Science - balzaclesmedecin0000doct - Balzac Les Medecins , La Medecine et la Science
 History - historyofmethodi0002wade - History of Methodist Missions; Early American Methodism
 History - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
+Culture - bppr-3-1380 - Cell culture and transfection
+Culture - bwb_S0-DUH-940 - Cult and Culture
+Festival - CdFestivalBrasilSertanejo - Cd Festival Brasil Sertanejo
+Festival - bwb_Y0-BUX-774 - By the Sea A History of the Capitola Begonia Festival
