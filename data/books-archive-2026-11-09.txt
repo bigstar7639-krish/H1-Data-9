@@ -224,3 +224,7 @@ Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
 Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
 Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mobile-phone-background
 Phone - PhoneDoctor_20170313 - Phone Doctor
+Computer - computerbasedtra0000hila - Computer-based Training of Cannon Fire Direction Specialists
+Computer - computerdatabase0000lawr - A Computer Data Base System for Indexing Research Papers
+Book - outdoorbook0000unse_v2p3 - Outdoor Book
+Book - 1966brandbookofd0000will - The 1966 Brand Book of The Denver Pose of The Westerners Being Volume Twenty-Two
