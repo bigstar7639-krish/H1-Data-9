@@ -266,3 +266,7 @@ Space - perceptionextens0000ralp - Perception, Extension, And Enclosure Of Space
 Space - spacewalksexplor0000kath - Space Walks (Explore Space)
 Story - bwb_S0-EMF-986 - the story of the american indian
 Story - bwb_S0-BQL-870 - The Story of Therese Neumann
+Health - bwb_KU-773-442 - The Cost of Health
+Health - HealthFitness_201708 - Health Fitness
+Music - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
+Music - musicinwesternci0000paul_r6z1 - Music in Western Civilization
