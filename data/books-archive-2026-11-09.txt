@@ -168,3 +168,5 @@ Desert - bwb_KU-559-291 - The Gobi Desert
 Desert - harvestindesert0000maur_l3p0 - HARVEST in the DESERT
 Snow - bwb_W9-CRW-103 - On snow and rock
 Snow - learningaboutsno0000kath - Learning about Snow
+Earth - bwb_P4-ATJ-080 - THE EARTH IS THE LORD'S
+Earth - bwb_S0-DCJ-390 - "New Heavens and A new Earth"
