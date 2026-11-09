@@ -61,3 +61,5 @@ Village - Unsplash - https://source.unsplash.com/800x600/?village%20sunset
 Village - Openverse - https://www.flickr.com/photos/90198349@N04/8617197582
 Village - Openverse - https://www.flickr.com/photos/95491601@N04/8707861143
 Village - Openverse - https://www.flickr.com/photos/7155605@N03/5050361586
+Village - Wikimedia - https://commons.wikimedia.org/w/index.php?curid=39242414
+Village - Openverse - https://www.flickr.com/photos/37979087@N05/8012740316
