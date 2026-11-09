@@ -103,3 +103,13 @@ Q+A Katha - Fashion 🧠
 Question: Who is the founder of Team Fortress 2's fictional company "Mann Co"?
 
 Answer: Zepheniah Mann - Entertainment: Video Games. Itha kelvi Fashion pathi - Answer Zepheniah Mann. Oru kaalathula oru oor la Fashion nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Fashion oda arumaiya purinjikittan, avan Fashion pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Fashion ah purinjikittanga, antha oor ye Fashion nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Fashion ah purinjikita life ye azhagahum.
+Q+A Katha - Game 🧠
+
+Question: What is the most common type of pitch thrown by pitchers in baseball?
+
+Answer: Fastball - Sports. Itha kelvi Game pathi - Answer Fastball. Game pathi kelvi patta oru ponnu, ava daily Game pathi yosichittu iruntha, oru naal ava oru puthu book padichu Game oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Game ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Game la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Sport 🧠
+
+Question: How many bits make up the significand portion of a single precision floating point number?
+
+Answer: 23 - Science: Computers. Itha kelvi Sport pathi - Answer 23. Sport pathi kelvi patta oru ponnu, ava daily Sport pathi yosichittu iruntha, oru naal ava oru puthu book padichu Sport oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Sport ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Sport la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
