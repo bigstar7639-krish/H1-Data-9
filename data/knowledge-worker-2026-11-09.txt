@@ -95,3 +95,4 @@ Tea - Tea is an aromatic beverage prepared by infusion of hot or boiling fresh w
 Cake - Cake is a baker's confectionery made by combining flour with a liquid, a fat or both, and usually with a leavening agent. Cakes are usually baked, but can be griddled. In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations that can be simple or elaborate and which share features with other desserts such as pastries, meringues, custards, and pies.
 Pizza - Pizza is an Italian dish typically consisting of a flat base of leavened wheat-based dough topped with tomato, cheese, and other ingredients, baked at a high temperature, traditionally in a wood-fired oven.
 Burger - Burger or Burgers may refer to:
+Chocolate - Chocolate is a food made from roasted and ground cocoa beans. It can be a liquid, solid, or paste. It is eaten on its own and used to flavor other foods.
