@@ -258,3 +258,7 @@ Cat - thecatcollection-43-rus - The Cat Collection issue 43 RUS
 Cat - bwb_C0-CEJ-450 - ITS LIKE THIS, CAT
 Dog - isbn_9780780780644 - A Dog Named Sam
 Dog - whatyourdogwants0000wild - What your dog wants
+Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
+Food - paper-doi-10_1038_092228a0 - (1) XI Jahresbericht (1911) der Vogelwarte Rossitten der Deutschen Ornithologischen Gesellschaft (2) The Food of some British Wild Birds: a Study in Economic Ornithology (3) The Bodley Head Natural History
+Cricket - bwb_KV-028-408 - It Isn't Cricket
+Cricket - pitchperfectcric0000mcla - Pitch perfect : a Cricket Creek novel
