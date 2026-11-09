@@ -11,3 +11,12 @@ Student - A student is a person enrolled in a school or other educational instit
 Business - Business is the practice of making one's living or making money by producing or buying and selling products. It is also "any activity or enterprise entered into for profit."
 Money - Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment.
 Yoga - Yoga is a group of physical, mental, and spiritual practices or disciplines that originated with its own philosophy in ancient India, aimed at controlling body and mind to attain liberation (moksha), as practiced in the Hindu, Jain, and Buddhist traditions. Modern forms of yoga are practiced worldwide, often mainly for exercise accompanied by other elements like relaxation.
+Meditation - Meditation is a practice in which an individual uses a technique or combination of techniques to train attention and awareness and detach from "discursive, ruminating thought", achieving a mentally clear and emotionally calm and stable state, while not intending to analyze the effects, to judge its outcomes, or to create any expectation with regard to the process.
+Fitness - Fitness may refer to:Physical fitness, a state of health and well-being of the body
+Fitness culture, a sociocultural phenomenon surrounding exercise and physical fitness
+Fitness (biology), an individual's ability to propagate its genes
+Fitness (cereal), a brand of breakfast cereals and granola bars
+Fitness (magazine), a women's magazine, focusing on health and exercise
+Fitness (Apple), a mobile application developed by Apple
+Fitness and figure competition, a form of physique training, related to bodybuilding
+Fitness approximation, a method of function optimization in evolutionary computation o
