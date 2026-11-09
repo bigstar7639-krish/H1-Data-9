@@ -84,3 +84,7 @@ Future - pubmed-PMC3339227 - Neurological soft signs in schizophrenia - The past
 Future - bwb_S0-DTV-561 - survey of science and technology issues present and future
 Freedom - freedom00leon - Freedom : more than 600 quotes celebrating independence, liberty, and justice
 Freedom - bwb_S0-ATH-647 - vanishing dinosaur freedom as vocation
+Hope - emergenceofhope0000jeff - Emergence of Hope
+Hope - bwb_C0-AUG-636 - thou, lord art my hope!
+Faith - isbn_9781607461906 - From Faith to Reason: Did God create mankind or did mankind create God?
+Faith - faithofourfather0000irvi - the faith of our fathers: an anthology expressing the aspirations of the american common man 1790-1860
