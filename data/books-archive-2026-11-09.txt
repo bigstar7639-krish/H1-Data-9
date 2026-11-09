@@ -213,3 +213,6 @@ Tiger - bwb_W9-CRI-316_b0p2 - The Elephant and the Tiger
 Lion - bwb_S0-EKQ-267_13 - Funk & Wagnalls Standard Reference Encyclopedia Henry The Lion - Insanity
 Lion - LeGrandMasqueJuifOuLneDansLaPeauDuLion193649p - Le Grand Masque Juif Ou L'âne Dans La Peau Du Lion 1936 ( 49p)
 Bike - cbfc-ecinepramaan-100010292400003826 - IKEA NLP BIKE BLR
+Horse - myhorsesays0000unse_t0k6 - my horse says
+Horse - bwb_T5-CWP-283 - stand to horse
+Bike - bwb_S0-BCA-106 - Hit the Bike Trail
