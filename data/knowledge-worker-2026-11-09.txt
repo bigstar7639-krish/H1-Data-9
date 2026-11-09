@@ -8,3 +8,4 @@ Animal - Animals are multicellular, eukaryotic organisms belonging to the biolog
 Baby - An infant is a very young human being. Baby is an alternative term for infant. The terms may also be used to refer to juvenile beings of other organisms. A newborn is, in mainstream use, an infant who is only hours, days, or weeks old; while in medical contexts, a newborn or neonate is an infant in the first 28 days after birth.
 Teacher - A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching.
 Student - A student is a person enrolled in a school or other educational institution, or more generally, a person who takes a special interest in a subject.
+Business - Business is the practice of making one's living or making money by producing or buying and selling products. It is also "any activity or enterprise entered into for profit."
