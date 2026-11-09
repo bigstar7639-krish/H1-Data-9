@@ -304,3 +304,9 @@ Tiger - Tiger in his lair
 Lion - The Lion, the Witch and the Wardrobe
 Lion - The Lion's Lady
 Lion - The Lion of La Roche
+Horse - The Horse and His Boy
+Horse - War Horse
+Horse - On a pale horse
+Bike - Franklin Rides a Bike (Franklin)
+Bike - Duck on a Bike
+Bike - The bike ride
