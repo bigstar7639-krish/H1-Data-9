@@ -108,3 +108,5 @@ Osaka - gov.uscourts.tnwd.66101 - Garcia-Moreno v. Osaka Japanese Cuisine, LLC
 Osaka - pubmed-PMC3942944 - A Coprological Survey of Intestinal Helminthes in Stray Dogs Captured in Osaka Prefecture, Japan.
 Japanese Temple - artofoldjapanrar00amer - Art of old Japan, rare specimens of pewter, carvings in jade and other stones and wood. Many lanterns from famous palace and temple grounds, fine gold lacquers and other scarce objects : selected by the well-known Japanese connoisseur Bunkio Matsuki
 Japanese Temple - ZEN_Temple_designguide - Old Japanese Temple Design Rules
+Japanese Girl - konnichiwaiamjap0000brow - Konnichiwa! : I am a Japanese-American girl
+Japanese Girl - fromdogbridegroo0000mura - From Dog bridegroom to Wolf girl : contemporary Japanese fairy-tale adaptations in conversation with the West
