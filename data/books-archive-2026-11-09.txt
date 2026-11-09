@@ -186,3 +186,7 @@ Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
 Burger - cbfc-ecinepramaan-100010291800006313 - BAJRA VS BURGER THEATRICAL TRAILER
 Chocolate - isbn_9780615339702 - Chocolate Travel Guide: United States Edition 2010
 Chocolate - faithgriefpassch0000wall - Faith, Grief and Pass the Chocolate Pudding
+Fruit - bwb_T3-BSD-639 - so good with fruit
+Fruit - antagonisticacti0003ygut - Antagonistic Action Of Bacillus Subtilis Against Citrus Fruit Pathogens
+Vegetable - bwb_Y0-BWA-507 - america's best vegetable recipes, 666 ways to make vegetables irresistible
+Vegetable - bwb_S0-DUL-344_x8c3 - COMMERCIAL FRUIT AND VEGETABLE PRODUCTS
