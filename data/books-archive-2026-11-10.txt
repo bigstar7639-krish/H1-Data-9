@@ -8,3 +8,7 @@ Cat - morphologicaleff0000pres - The morphological effects of infant-and adult-o
 Cat - bwb_C0-CEJ-450 - ITS LIKE THIS, CAT
 Dog - isbn_9780780780644 - A Dog Named Sam
 Dog - whatyourdogwants0000wild - What your dog wants
+Food - bridgesfoodbever0000marj_c5e4 - Bridges Food And Beverage Analysis
+Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
+Cricket - bwb_KV-028-408 - It Isn't Cricket
+Cricket - politicsofsoutha0000gemm_j6v9 - The politics of South African cricket
