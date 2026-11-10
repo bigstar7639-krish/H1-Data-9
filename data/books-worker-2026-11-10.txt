@@ -331,3 +331,9 @@ Moon - The moon is a harsh mistress
 Sun - The Sun Also Rises
 Sun - Midnight Sun
 Sun - A Thousand Splendid Suns
+Bird - I Know Why the Caged Bird Sings
+Bird - Bird by Bird
+Bird - The Thorn Birds
+Animal - Animal Farm
+Animal - Animal Farm / Nineteen Eighty-Four
+Animal - The social animal
