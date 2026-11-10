@@ -174,3 +174,7 @@ Poetry - bwb_C0-BNY-939 - British Poetry and Prose
 Poetry - bwb_T5-ASO-592 - british poetry and prose
 Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
 Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
+Dancing - gut27367.sbooks - The Art of Stage Dancing
+Dancing - oapen-20.500.12657-79419 - Chapter 4.9 A chorus of dancing voices curated by Katye Coe
+Tamil - cbfc-ecinepramaan-100010292300006351 - FINOLEX PIPES TAMIL
+Tamil - cbfc-ecinepramaan-100010291800005799 - SAREGAMA CARVAAN AD TAMIL 20 SEC
