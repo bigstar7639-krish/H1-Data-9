@@ -170,3 +170,6 @@ Reading - bwb_W9-CWZ-772 - The Junior Great Books Reading and Discussion Program
 Reading - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
 Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
 Writing - bwb_O6-BGC-949 - IEEE Engineers Guide to Business: Writing for Carreer Growth
+Poetry - bwb_C0-BNY-939 - British Poetry and Prose
+Poetry - bwb_T5-ASO-592 - british poetry and prose
+Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
