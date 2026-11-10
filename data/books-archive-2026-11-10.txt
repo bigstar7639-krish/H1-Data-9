@@ -146,3 +146,7 @@ Taj Mahal - bwb_KV-445-063 - THE TAJ MAHAL
 Taj Mahal - eparlib.nic.in.737059 - Alleged felling of a number of trees near Taj Mahal, a world heritage site in Agra, U.P. (22-Jul-2009)
 Eiffel Tower - CIA-RDP96-00789R001601660001-1 - TRAINING, EIFFEL TOWER, VIEWER 79 2 NOVEMBER 87
 Eiffel Tower - cu31924101157364 - Wireless time signals. Radio-telegraphic time and weather signals transmitted from the Eiffel Tower, and their reception
+Psychology - isbn_070345708 - Social psychology
+Psychology - bwb_C0-AJU-196 - Comparative Psychology Of Mental Development
+Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy
+Philosophy - bwb_T3-BPE-768_20 - Further Studies in Philosophy
