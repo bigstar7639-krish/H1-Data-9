@@ -150,3 +150,7 @@ Psychology - isbn_070345708 - Social psychology
 Psychology - bwb_C0-AJU-196 - Comparative Psychology Of Mental Development
 Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy
 Philosophy - bwb_T3-BPE-768_20 - Further Studies in Philosophy
+Economics - bwb_S0-ADF-033 - economics of national security
+Economics - bwb_S0-DQB-196 - Urban Economics and Public Policy
+Politics - bwb_S0-DHY-403 - Christians and Power Politics
+Politics - bwb_T5-BAV-164 - Mass politics: Studies in political sociology
