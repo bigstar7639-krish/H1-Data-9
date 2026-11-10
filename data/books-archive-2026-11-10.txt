@@ -216,3 +216,5 @@ Sky - bwb_S0-BGR-072 - Get Out Of My Sky
 Sky - bwb_C0-CEH-108 - Flames in the Sky
 Star - isbn_9781530770762 - Cade (Lone Star Lovers) (Volume 1)
 Star - MEGASTARASMAISTOCADASDE2017_201712 - MEGA STAR AS MAIS TOCADAS DE 2017
+Sun - 2024-02-08-0022 - Quincy Sun Feb 08 2024
+Sun - bwb_S0-EKW-675 - run way to the sun
