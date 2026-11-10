@@ -192,3 +192,7 @@ Food - bridgesfoodbever0000marj_c5e4 - Bridges Food And Beverage Analysis
 Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
 Cricket - bwb_KV-028-408 - It Isn't Cricket
 Cricket - bwb_S0-EBY-685 - A Christmas Carol , The Cricket on the Hearth
+Space - perceptionextens0000ralp - Perception, Extension, And Enclosure Of Space
+Space - bwb_C0-BNX-912 - That Manuscript from outer space
+Story - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
+Story - navyhistorystory0000flet_g0k8 - The navy a history the story of a service in action
