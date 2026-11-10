@@ -188,3 +188,7 @@ Cat - aphis_EXOTIC_CAT_REFUGE_AND_WILDLIFE_ORPHANAGE_INC_74-C-0424 - EXOTIC CAT 
 Cat - bwb_KU-147-693 - A cat in the Window
 Dog - givedogbone0000okan_o9l6 - Give the dog a bone
 Dog - isbn_9780780780644 - A Dog Named Sam
+Food - bridgesfoodbever0000marj_c5e4 - Bridges Food And Beverage Analysis
+Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
+Cricket - bwb_KV-028-408 - It Isn't Cricket
+Cricket - bwb_S0-EBY-685 - A Christmas Carol , The Cricket on the Hearth
