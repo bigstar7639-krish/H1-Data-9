@@ -228,3 +228,7 @@ Baby - girlfriendsguide00iovi_0 - The girlfriends' guide to baby gear
 Baby - keralalegislativeassembly.proceedings.485952 - Incident about Death of Mother and Baby Related to Delivery / പ്രസവത്തോടനുബന്ധിച്ച് അമ്മയും കുഞ്ഞും മരണപ്പെട്ടത് സംബന്ധിച്ച്
 Teacher - bwb_C0-BPX-797 - teacher, teacher, I done it! I done it! I done done it!
 Teacher - bwb_Y0-ECX-828 - The 1975 Metro Toronto Teacher-Board Negotiations and Strike
+Student - psychologypsytre0005nair - Psychology psytrek 3.0 student user guide with printed access card
+Student - bwb_S0-DNM-028 - High school student book
+Business - isbn_9780735533851 - TM: Business Organizations
+Business - bwb_O6-BGC-949 - IEEE Engineers Guide to Business: Writing for Carreer Growth
