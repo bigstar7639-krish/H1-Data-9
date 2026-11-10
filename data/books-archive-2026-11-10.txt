@@ -12,3 +12,6 @@ Food - bridgesfoodbever0000marj_c5e4 - Bridges Food And Beverage Analysis
 Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
 Cricket - bwb_KV-028-408 - It Isn't Cricket
 Cricket - politicsofsoutha0000gemm_j6v9 - The politics of South African cricket
+Space - perceptionextens0000ralp - Perception, Extension, And Enclosure Of Space
+Space - bwb_C0-BNX-912 - That Manuscript from outer space
+Story - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
