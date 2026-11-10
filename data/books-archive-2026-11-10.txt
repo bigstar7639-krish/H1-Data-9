@@ -258,3 +258,7 @@ Science - bwb_S0-BQC-719 - The Popular Science
 Science - interplayofcreat0000meli - Interplay of Creativity and Giftedness in Science
 History - historyofmethodi0002wade - History of Methodist Missions; Early American Methodism
 History - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
+Culture - bppr-3-1380 - Cell culture and transfection
+Culture - bppr-3-1734 - Cell culture, RNAi experiments, and adenoviral infection
+Festival - glastonbury-festival-2022-pass-out - Glastonbury Festival 2022 Pass Out
+Festival - CdFestivalBrasilSertanejo - Cd Festival Brasil Sertanejo
