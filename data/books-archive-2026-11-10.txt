@@ -86,3 +86,5 @@ Marriage - fromfriendshipto0000roya - From friendship to marriage
 Marriage - secretmarriage0000unse_y2y6 - Secret Marriage
 Family - family195319600000alex - Family 1953 - 1960
 Family - bwb_P9-BJO-264 - The Family Of Tomorrow The Cultural Crisis And The Way Out
+Friendship - fromfriendshipto0000roya - From friendship to marriage
+Friendship - bwb_C0-BNV-551 - The Friendship Book of Francis Gay 1985
