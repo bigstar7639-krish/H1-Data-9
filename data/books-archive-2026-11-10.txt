@@ -46,3 +46,7 @@ Animal - immunologyofanim0000hari - Immunology of animal reproduction
 Animal - animaltails0000maso - Animal tails
 Baby - expectingrancher0000gold - Expecting the rancher's baby
 Baby - theirdoublebabyg0000heat - THEIR DOUBLE BABY GIFT
+Teacher - bwb_C0-BPX-797 - teacher, teacher, I done it! I done it! I done done it!
+Teacher - bwb_Y0-ECX-828 - The 1975 Metro Toronto Teacher-Board Negotiations and Strike
+Student - isbn_9780964811331 - Student Workbook (Choices That Lead to Lifelong Success)
+Student - bwb_S0-DNM-028 - High school student book
