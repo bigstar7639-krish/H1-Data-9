@@ -88,3 +88,7 @@ Family - family195319600000alex - Family 1953 - 1960
 Family - bwb_P9-BJO-264 - The Family Of Tomorrow The Cultural Crisis And The Way Out
 Friendship - fromfriendshipto0000roya - From friendship to marriage
 Friendship - bwb_C0-BNV-551 - The Friendship Book of Francis Gay 1985
+Study - bppr-3-1304 - Physicochemical characterization of mRNA-encapsulated NPs and RNA loading efficiency study
+Study - bwb_S0-BTO-314 - The old testament and moddern study
+Dream - bwb_C0-CEK-542 - THE AMERICAN DREAM AND THE ZOO STORY
+Dream - bwb_S0-AMK-158 - DREAM OF THE MINOTAUR
