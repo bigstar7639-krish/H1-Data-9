@@ -212,3 +212,7 @@ Mountain - gunslickmountain0000nyen_k5j4 - Gunslick mountain
 Mountain - climbmountainpat0000jose - Climb the Mountain: A Path Taken
 River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relative to the red rive resistance of 1869-1870
 River - bwb_Y0-AER-901 - Peace River Country
+Sky - bwb_S0-BGR-072 - Get Out Of My Sky
+Sky - bwb_C0-CEH-108 - Flames in the Sky
+Star - isbn_9781530770762 - Cade (Lone Star Lovers) (Volume 1)
+Star - MEGASTARASMAISTOCADASDE2017_201712 - MEGA STAR AS MAIS TOCADAS DE 2017
